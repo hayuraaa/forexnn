@@ -2,7 +2,11 @@ Streamlit
 yfinance
 NumPy
 Pandas
+Matplotlib
 Scikit-Learn
 TensorFlow==2.15.0
 Plotly
+Pyngrok
+Hyperopt
 Datetime
+Appdirs
